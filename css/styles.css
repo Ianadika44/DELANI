@@ -16,3 +16,12 @@ p{
     color: white;
     height: 200px;
 }
+table{
+    table-layout: auto;
+    margin: 80px;
+    padding: 10px;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
