@@ -1,0 +1,10 @@
+.home{
+    text-align: center;
+    padding-left: 50%;
+    background-image: url(https://bit.ly/2wrWNDd );
+}
+.container{
+    background-image: url(../assets/images/h_img.jpg);
+    background-size: cover;
+    color: white;
+}
