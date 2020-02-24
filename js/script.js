@@ -1,19 +1,19 @@
 $(document).ready(function() {
-    $(".design").click(function() {
+    $(".click1").click(function() {
+        $(".design").toggle();
         $(".p1").toggle();
-        $(".image1").toggle();
     });
 });
 $(document).ready(function(){
-    $(".devpt").click(function(){
+    $(".click2").click(function(){
+        $(".devpt").toggle();
         $(".p2").toggle();
-        $(".image2").toggle();
     });
 });
 $(document).ready(function(){
-    $(".product").click(function(){
+    $(".click3").click(function(){
+        $(".product").toggle();
         $(".p3").toggle();
-        $(".image3").toggle
     });
 });
 // $("document").hover(function(){

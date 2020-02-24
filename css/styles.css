@@ -51,22 +51,29 @@ td:hover{
 h3{
     text-align: center;
 }
-.col-md-4{
+/* .col-md-4{
     text-align: center;
     padding-right: 50px;
-}
+    display: show;
+    justify-content: space-around; */
+/* } */
+
 .p1{
     display: none;
+    text-align: center;
 }
-.p2{
+.p2{ 
     display: none;
-}
+    text-align: center;
+} 
 .p3{
     display: none;
+    text-align: center;
 }
 .image1{
     padding-right: 200px;
     padding-left: 200px;
+
 }
 .image2{
     padding-right: 200px;
@@ -75,10 +82,32 @@ h3{
 .image3{
     padding-right: 50px;
     padding-left: 200px;
-    text-align: center;
 }
 .footer{
     text-align: center;
     padding-bottom: 40px;
     padding-top: 40px;
+}
+.design{
+    display: show;
+    justify-content: space-around;
+    padding: 100px;
+    padding-left:70px ;
+
+}
+.devpt{
+    display: show;
+    justify-content: space-around;
+    padding: 100px;
+    padding-left: 70px;
+
+}
+.product{
+    display: show;
+    justify-content: space-around;
+    padding: 100px;
+    padding-left: 70px;
+}
+.row{
+    display: flex;
 }
