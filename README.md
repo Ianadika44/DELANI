@@ -22,6 +22,7 @@
  - PORTFOLIO shows our website's logo
  - CONTACTS  you fill the name,email and message 
  - you will get an alert that your email has been received
+ - when you havent filled the incorrect format on the forms you will get an alert to enter the valid adress
  ## Contacts details
   - Email:adika19ian@gmail.com
   - Phone no:0757441659
