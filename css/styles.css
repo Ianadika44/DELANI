@@ -25,6 +25,7 @@ padding-bottom: 40px;
 padding-top: 50px;
 flex-wrap: wrap;
 text-align: center;
+
 }
 
 td:hover{
@@ -43,8 +44,22 @@ td:hover{
 
 .col-md-1{
     text-align: center;
+    padding: 20px;
 }
 
 h3{
     text-align: center;
+}
+.col-md-4{
+    text-align: center;
+    padding-right: 50px;
+}
+.p1{
+    display: none;
+}
+.p2{
+    display: none;
+}
+.p3{
+    display: none;
 }
