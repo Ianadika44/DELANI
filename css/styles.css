@@ -42,11 +42,10 @@ text-align: center;
 height: 10px;
 width: 20px;
 }
-.span{
+/* .span{
     text-align: center;
     padding: 200px;
-
-}
+} */
 td:hover{
     background-color: white;
 
