@@ -34,7 +34,8 @@ td:hover{
 }
 
 .row{
-    margin: 20px;
+    text-align: center;
+    padding-left: 350px;
 }
 .contact{
     background-image: url(../assets/images/c_image.jpg);
