@@ -1,15 +1,15 @@
-<!-- ## Project name.
+## Project name.
 - Delani Studio
 ## Author
 - Ian Adika
 ## Project description.
-- The project is basically explains 
+- The project gives a platform of bringing out the developers and their products. 
 ## Author information.
  - Ian Adika
 ## Setup instructions 
  - Have a github account to deploy the project
  - Click the link below for the live project.
- - https://ianadika44.github.io/Akan/
+ - https://ianadika44.github.io/DELANI/
 ## Technology Used
  - HTML-We used html for the page layout.
  - CSS-We used css and bootstrap for styling the website and making the landing page.
@@ -20,7 +20,8 @@
  - SERVICES shows the services we offer
  - WHAT WE DO you must toggle to see what we do.
  - PORTFOLIO shows our website's logo
- - CONTACTS 
+ - CONTACTS  you fill the name,email and message 
+ - you will get an alert that your email has been received
  ## Contacts details
   - Email:adika19ian@gmail.com
   - Phone no:0757441659
@@ -32,4 +33,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. -->
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
