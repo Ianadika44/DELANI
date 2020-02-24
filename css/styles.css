@@ -45,6 +45,7 @@ td:hover{
 .col-md-1{
     text-align: center;
     padding: 20px;
+    padding-right: 100px;
 }
 
 h3{
@@ -62,4 +63,17 @@ h3{
 }
 .p3{
     display: none;
+}
+.image1{
+    padding-right: 200px;
+    padding-left: 200px;
+}
+.image2{
+    padding-right: 200px;
+    padding-left: 90px;   
+}
+.image3{
+    padding-right: 50px;
+    padding-left: 200px;
+    text-align: center;
 }

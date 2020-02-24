@@ -16,6 +16,11 @@ $(document).ready(function(){
         $(".image3").toggle
     });
 });
+// $("document").hover(function(){
+//     $(tc).css("background-color", "white");
+//     }, function(){
+//     $(tc).css("background-color", "white");
+//   });
 
 function myFunction (){
     var name = document.getElementById("name").value;
