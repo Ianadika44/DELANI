@@ -1,3 +1,6 @@
+*{
+    overflow-x: hidden;
+}*
 #container{
     background-image: url(../assets/images/h_img.jpg);
     background-size: cover;
@@ -5,7 +8,9 @@
     text-align: center;
     height: 400px;
     padding-top: 30px;
-
+}
+body{
+    overflow-x: hidden;
 }
 h2{
     text-align: center;
@@ -19,7 +24,11 @@ p{
     color: white;
     height: 200px;
 }
-
+.table{
+    padding: 30px;
+    margin: 5px;
+    padding-left: 30px;
+}
 td{
 padding-bottom: 40px;
 padding-top: 50px;
@@ -106,4 +115,48 @@ h3{
 }
 .row{
     display: flex;
+}
+#par1,#par2,#par3,#par4,#par5,#par6,#par7,#par8{
+    display: none;
+    color: grey;
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    #container,.jumbotron,.services,.row,.table,.contact{
+        width: 100%;
+        overflow-x: hidden
+        ;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    #container,.jumbotron,.services,.row,.table,.contact{
+        width: 100%;
+        overflow-x: hidden;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    #container,.jumbotron,.services,.row,.table,.contact{
+        width: 100%;
+        overflow-x: hidden;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    #container,.jumbotron,.services,.row,.table,.contact{
+        width: 100%;
+        overflow-x: hidden;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    #container,.jumbotron,.services,.row,table,.contact{
+        width: 100%;
+        overflow-x: hidden;
+    }
 }
